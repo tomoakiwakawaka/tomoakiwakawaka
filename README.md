@@ -5,6 +5,6 @@
 
 <!-- GitHub stats and top languages side-by-side -->
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=tomoakiwakawaka&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomoakiwakawaka&layout=compact&theme=tokyonight" alt="Top languages" />
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomoakiwakawaka&layout=compact&theme=tokyonight" alt="Top languages" /> -->
 
 <br clear="both" />
