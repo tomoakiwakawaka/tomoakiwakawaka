@@ -1,7 +1,6 @@
 # Hi, I'm　TOMOAKIWAKAWAKA 👋
 
-<!-- Profile summary card -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomoakiwakawaka&theme=github" alt="profile details" />
+
 
 [![](https://raw.githubusercontent.com/tomoakiwakawaka/tomoakiwakawaka/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
