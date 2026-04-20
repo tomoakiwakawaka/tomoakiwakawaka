@@ -1,5 +1,6 @@
 name: GitHub-Profile-Summary-Cards
 
+
 on:
   schedule:
     - cron: "0 0 * * *" # 毎日UTC 0:00に自動更新
@@ -14,7 +15,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: vn7n24f1tk/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN || secrets.SUMMARY_GITHUB_TOKEN || github.token }}
         with:
